@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wemakecustom/swiftmailer-twig-bundle": "^1.0",
+        "twig/twig": "1.35"
+    }
+}
